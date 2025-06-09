@@ -164,6 +164,8 @@ The analysis generates several output files in the `reports/` directory:
 
 ### Sample Output Table
 
+Below is a sample of the enriched autocomplete dataset generated and analyzed by the pipeline:
+
 ![Sample Output Table](reports/sample_output_table.png)
 
 ## Technical Specifications
