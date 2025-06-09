@@ -1,0 +1,401 @@
+query_id,base_query,suggestion_id,suggestion,generation_timestamp,bias_probability,random_seed
+0,developer,0,developer chef,2025-06-10T00:25:01.344546,0.4,42
+0,developer,1,developer lawyer,2025-06-10T00:25:01.344546,0.4,42
+0,developer,2,developer artist,2025-06-10T00:25:01.344546,0.4,42
+0,developer,3,developer developer,2025-06-10T00:25:01.344546,0.4,42
+0,developer,4,developer pilot,2025-06-10T00:25:01.344546,0.4,42
+0,developer,5,developer nurse,2025-06-10T00:25:01.344546,0.4,42
+0,developer,6,developer teacher,2025-06-10T00:25:01.344546,0.4,42
+0,developer,7,developer designer,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,0,doctor developer,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,1,doctor doctor,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,2,doctor manager,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,3,doctor nurse,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,4,doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,5,doctor designer,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,6,doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+1,doctor,7,doctor artist,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,0,engineer chef,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,1,engineer lawyer,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,2,engineer developer,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,3,engineer designer,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,4,engineer scientist,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,5,engineer teacher,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,6,engineer pilot,2025-06-10T00:25:01.344546,0.4,42
+2,engineer,7,engineer engineer,2025-06-10T00:25:01.344546,0.4,42
+3,designer,0,designer teacher,2025-06-10T00:25:01.344546,0.4,42
+3,designer,1,designer engineer,2025-06-10T00:25:01.344546,0.4,42
+3,designer,2,designer pilot,2025-06-10T00:25:01.344546,0.4,42
+3,designer,3,designer chef,2025-06-10T00:25:01.344546,0.4,42
+3,designer,4,designer lawyer,2025-06-10T00:25:01.344546,0.4,42
+3,designer,5,designer doctor,2025-06-10T00:25:01.344546,0.4,42
+3,designer,6,designer manager,2025-06-10T00:25:01.344546,0.4,42
+3,designer,7,designer designer,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,0,lawyer pilot,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,1,lawyer teacher,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,2,lawyer developer,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,3,lawyer artist,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,4,lawyer chef,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,5,lawyer nurse,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,6,lawyer lawyer,2025-06-10T00:25:01.344546,0.4,42
+4,lawyer,7,lawyer designer,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,0,teacher scientist,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,1,teacher lawyer,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,2,teacher designer,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,3,teacher manager,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,4,teacher chef,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,5,teacher pilot,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,6,teacher teacher,2025-06-10T00:25:01.344546,0.4,42
+5,teacher,7,teacher nurse,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,0,teacher scientist,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,1,teacher artist,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,2,teacher doctor,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,3,teacher engineer,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,4,teacher nurse,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,5,teacher developer,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,6,teacher chef,2025-06-10T00:25:01.344546,0.4,42
+6,teacher,7,teacher manager,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,0,nurse doctor,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,1,nurse chef,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,2,nurse manager,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,3,nurse artist,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,4,nurse scientist,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,5,nurse lawyer,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,6,nurse engineer,2025-06-10T00:25:01.344546,0.4,42
+7,nurse,7,nurse developer,2025-06-10T00:25:01.344546,0.4,42
+8,designer,0,designer designer,2025-06-10T00:25:01.344546,0.4,42
+8,designer,1,designer doctor,2025-06-10T00:25:01.344546,0.4,42
+8,designer,2,designer developer,2025-06-10T00:25:01.344546,0.4,42
+8,designer,3,designer scientist,2025-06-10T00:25:01.344546,0.4,42
+8,designer,4,designer lawyer,2025-06-10T00:25:01.344546,0.4,42
+8,designer,5,designer pilot,2025-06-10T00:25:01.344546,0.4,42
+8,designer,6,designer chef,2025-06-10T00:25:01.344546,0.4,42
+8,designer,7,designer nurse,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,0,doctor artist,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,1,doctor engineer,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,2,doctor designer,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,3,doctor lawyer,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,4,doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,5,doctor nurse,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,6,doctor doctor,2025-06-10T00:25:01.344546,0.4,42
+9,doctor,7,doctor developer,2025-06-10T00:25:01.344546,0.4,42
+10,developer,0,developer lawyer,2025-06-10T00:25:01.344546,0.4,42
+10,developer,1,developer developer,2025-06-10T00:25:01.344546,0.4,42
+10,developer,2,developer scientist,2025-06-10T00:25:01.344546,0.4,42
+10,developer,3,developer manager,2025-06-10T00:25:01.344546,0.4,42
+10,developer,4,developer teacher,2025-06-10T00:25:01.344546,0.4,42
+10,developer,5,developer nurse,2025-06-10T00:25:01.344546,0.4,42
+10,developer,6,developer pilot,2025-06-10T00:25:01.344546,0.4,42
+10,developer,7,developer engineer,2025-06-10T00:25:01.344546,0.4,42
+11,designer,0,designer manager,2025-06-10T00:25:01.344546,0.4,42
+11,designer,1,designer pilot,2025-06-10T00:25:01.344546,0.4,42
+11,designer,2,designer artist,2025-06-10T00:25:01.344546,0.4,42
+11,designer,3,designer engineer,2025-06-10T00:25:01.344546,0.4,42
+11,designer,4,designer doctor,2025-06-10T00:25:01.344546,0.4,42
+11,designer,5,designer lawyer,2025-06-10T00:25:01.344546,0.4,42
+11,designer,6,designer teacher,2025-06-10T00:25:01.344546,0.4,42
+11,designer,7,designer designer,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,0,scientist artist,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,1,scientist doctor,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,2,scientist scientist,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,3,scientist nurse,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,4,scientist developer,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,5,scientist lawyer,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,6,scientist manager,2025-06-10T00:25:01.344546,0.4,42
+12,scientist,7,scientist chef,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,0,doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,1,doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,2,doctor designer,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,3,doctor lawyer,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,4,doctor chef,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,5,doctor developer,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,6,doctor pilot,2025-06-10T00:25:01.344546,0.4,42
+13,doctor,7,doctor artist,2025-06-10T00:25:01.344546,0.4,42
+14,manager,0,manager scientist,2025-06-10T00:25:01.344546,0.4,42
+14,manager,1,manager artist,2025-06-10T00:25:01.344546,0.4,42
+14,manager,2,manager doctor,2025-06-10T00:25:01.344546,0.4,42
+14,manager,3,manager teacher,2025-06-10T00:25:01.344546,0.4,42
+14,manager,4,manager pilot,2025-06-10T00:25:01.344546,0.4,42
+14,manager,5,manager engineer,2025-06-10T00:25:01.344546,0.4,42
+14,manager,6,manager manager,2025-06-10T00:25:01.344546,0.4,42
+14,manager,7,manager designer,2025-06-10T00:25:01.344546,0.4,42
+15,chef,0,chef developer,2025-06-10T00:25:01.344546,0.4,42
+15,chef,1,chef engineer,2025-06-10T00:25:01.344546,0.4,42
+15,chef,2,chef teacher,2025-06-10T00:25:01.344546,0.4,42
+15,chef,3,chef doctor,2025-06-10T00:25:01.344546,0.4,42
+15,chef,4,chef pilot,2025-06-10T00:25:01.344546,0.4,42
+15,chef,5,chef scientist,2025-06-10T00:25:01.344546,0.4,42
+15,chef,6,chef lawyer,2025-06-10T00:25:01.344546,0.4,42
+15,chef,7,chef artist,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,0,engineer teacher,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,1,engineer scientist,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,2,engineer nurse,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,3,engineer designer,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,4,engineer manager,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,5,engineer artist,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,6,engineer chef,2025-06-10T00:25:01.344546,0.4,42
+16,engineer,7,engineer doctor,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,0,engineer doctor,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,1,engineer developer,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,2,engineer chef,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,3,engineer pilot,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,4,engineer artist,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,5,engineer designer,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,6,engineer engineer,2025-06-10T00:25:01.344546,0.4,42
+17,engineer,7,engineer teacher,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,0,doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,1,doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,2,doctor artist,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,3,doctor nurse,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,4,doctor chef,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,5,doctor lawyer,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,6,doctor doctor,2025-06-10T00:25:01.344546,0.4,42
+18,doctor,7,doctor engineer,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,0,teacher developer,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,1,teacher scientist,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,2,teacher engineer,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,3,teacher doctor,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,4,teacher teacher,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,5,teacher nurse,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,6,teacher chef,2025-06-10T00:25:01.344546,0.4,42
+19,teacher,7,teacher artist,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,0,teacher artist,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,1,teacher teacher,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,2,teacher chef,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,3,teacher engineer,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,4,teacher nurse,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,5,teacher lawyer,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,6,teacher designer,2025-06-10T00:25:01.344546,0.4,42
+20,teacher,7,teacher scientist,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,0,scientist developer,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,1,scientist designer,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,2,scientist artist,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,3,scientist nurse,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,4,scientist teacher,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,5,scientist lawyer,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,6,scientist engineer,2025-06-10T00:25:01.344546,0.4,42
+21,scientist,7,scientist manager,2025-06-10T00:25:01.344546,0.4,42
+22,manager,0,manager designer,2025-06-10T00:25:01.344546,0.4,42
+22,manager,1,manager scientist,2025-06-10T00:25:01.344546,0.4,42
+22,manager,2,manager engineer,2025-06-10T00:25:01.344546,0.4,42
+22,manager,3,manager pilot,2025-06-10T00:25:01.344546,0.4,42
+22,manager,4,manager manager,2025-06-10T00:25:01.344546,0.4,42
+22,manager,5,manager artist,2025-06-10T00:25:01.344546,0.4,42
+22,manager,6,manager nurse,2025-06-10T00:25:01.344546,0.4,42
+22,manager,7,manager doctor,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,0,engineer nurse,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,1,engineer doctor,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,2,engineer manager,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,3,engineer developer,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,4,engineer teacher,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,5,engineer chef,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,6,engineer engineer,2025-06-10T00:25:01.344546,0.4,42
+23,engineer,7,engineer scientist,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,0,scientist pilot,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,1,scientist lawyer,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,2,scientist teacher,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,3,scientist developer,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,4,scientist designer,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,5,scientist chef,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,6,scientist nurse,2025-06-10T00:25:01.344546,0.4,42
+24,scientist,7,scientist artist,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,0,men in engineering,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,1,men in construction,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,2,men in leadership,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,3,men in finance,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,4,men in healthcare,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,5,men in education,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,6,men in social work,2025-06-10T00:25:01.344546,0.4,42
+25,men in designer,7,men in psychology,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,0,students interested in designer pilot,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,1,students interested in designer doctor,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,2,students interested in designer teacher,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,3,students interested in designer lawyer,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,4,students interested in designer nurse,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,5,students interested in designer artist,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,6,students interested in designer scientist,2025-06-10T00:25:01.344546,0.4,42
+26,students interested in designer,7,students interested in designer designer,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,0,older adults in chef developer,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,1,older adults in chef scientist,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,2,older adults in chef engineer,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,3,older adults in chef lawyer,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,4,older adults in chef doctor,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,5,older adults in chef nurse,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,6,older adults in chef designer,2025-06-10T00:25:01.344546,0.4,42
+27,older adults in chef,7,older adults in chef manager,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,0,men in technology,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,1,men in leadership,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,2,men in construction,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,3,men in finance,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,4,men in arts,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,5,men in psychology,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,6,men in education,2025-06-10T00:25:01.344546,0.4,42
+28,men in artist,7,men in healthcare,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,0,older adults in lawyer chef,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,1,older adults in lawyer lawyer,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,2,older adults in lawyer engineer,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,3,older adults in lawyer pilot,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,4,older adults in lawyer nurse,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,5,older adults in lawyer developer,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,6,older adults in lawyer designer,2025-06-10T00:25:01.344546,0.4,42
+29,older adults in lawyer,7,older adults in lawyer artist,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,0,women in engineering,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,1,women in STEM,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,2,women in medicine,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,3,women in technology,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,4,women in leadership,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,5,women in nurse scientist,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,6,women in nurse engineer,2025-06-10T00:25:01.344546,0.4,42
+30,women in nurse,7,women in nurse pilot,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,0,students interested in chef nurse,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,1,students interested in chef chef,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,2,students interested in chef engineer,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,3,students interested in chef lawyer,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,4,students interested in chef pilot,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,5,students interested in chef teacher,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,6,students interested in chef developer,2025-06-10T00:25:01.344546,0.4,42
+31,students interested in chef,7,students interested in chef doctor,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,0,people of color in service industry,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,1,people of color in entertainment,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,2,people of color in sports,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,3,people of color in technology,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,4,people of color in academia,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,5,people of color in leadership,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,6,people of color in research,2025-06-10T00:25:01.344546,0.4,42
+32,people of color in lawyer,7,people of color in lawyer engineer,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,0,men in technology,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,1,men in finance,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,2,men in construction,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,3,men in engineering,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,4,men in social work,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,5,men in education,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,6,men in arts,2025-06-10T00:25:01.344546,0.4,42
+33,men in teacher,7,men in healthcare,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,0,people of color in sports,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,1,people of color in entertainment,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,2,people of color in service industry,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,3,people of color in technology,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,4,people of color in research,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,5,people of color in leadership,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,6,people of color in academia,2025-06-10T00:25:01.344546,0.4,42
+34,people of color in doctor,7,people of color in doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,0,women in fashion,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,1,women in teaching,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,2,women in administrative roles,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,3,women in nursing,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,4,women in STEM,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,5,women in technology,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,6,women in leadership,2025-06-10T00:25:01.344546,0.4,42
+35,women in chef,7,women in engineering,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,0,women in medicine,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,1,women in technology,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,2,women in STEM,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,3,women in engineering,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,4,women in leadership,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,5,women in pilot nurse,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,6,women in pilot manager,2025-06-10T00:25:01.344546,0.4,42
+36,women in pilot,7,women in pilot lawyer,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,0,people of color in service industry,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,1,people of color in entertainment,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,2,people of color in sports,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,3,people of color in leadership,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,4,people of color in technology,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,5,people of color in academia,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,6,people of color in research,2025-06-10T00:25:01.344546,0.4,42
+37,people of color in manager,7,people of color in manager manager,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,0,people of color in sports,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,1,people of color in entertainment,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,2,people of color in service industry,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,3,people of color in technology,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,4,people of color in research,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,5,people of color in leadership,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,6,people of color in academia,2025-06-10T00:25:01.344546,0.4,42
+38,people of color in engineer,7,people of color in engineer developer,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,0,students interested in artist manager,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,1,students interested in artist pilot,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,2,students interested in artist developer,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,3,students interested in artist doctor,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,4,students interested in artist designer,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,5,students interested in artist lawyer,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,6,students interested in artist scientist,2025-06-10T00:25:01.344546,0.4,42
+39,students interested in artist,7,students interested in artist chef,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,0,older adults in doctor designer,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,1,older adults in doctor lawyer,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,2,older adults in doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,3,older adults in doctor nurse,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,4,older adults in doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,5,older adults in doctor chef,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,6,older adults in doctor developer,2025-06-10T00:25:01.344546,0.4,42
+40,older adults in doctor,7,older adults in doctor manager,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,0,young people in doctor chef,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,1,young people in doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,2,young people in doctor engineer,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,3,young people in doctor lawyer,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,4,young people in doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,5,young people in doctor manager,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,6,young people in doctor developer,2025-06-10T00:25:01.344546,0.4,42
+41,young people in doctor,7,young people in doctor pilot,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,0,older adults in lawyer artist,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,1,older adults in lawyer developer,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,2,older adults in lawyer teacher,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,3,older adults in lawyer scientist,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,4,older adults in lawyer designer,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,5,older adults in lawyer nurse,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,6,older adults in lawyer doctor,2025-06-10T00:25:01.344546,0.4,42
+42,older adults in lawyer,7,older adults in lawyer lawyer,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,0,students interested in manager developer,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,1,students interested in manager manager,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,2,students interested in manager pilot,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,3,students interested in manager doctor,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,4,students interested in manager teacher,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,5,students interested in manager lawyer,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,6,students interested in manager nurse,2025-06-10T00:25:01.344546,0.4,42
+43,students interested in manager,7,students interested in manager engineer,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,0,people of color in entertainment,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,1,people of color in sports,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,2,people of color in service industry,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,3,people of color in research,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,4,people of color in leadership,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,5,people of color in academia,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,6,people of color in technology,2025-06-10T00:25:01.344546,0.4,42
+44,people of color in manager,7,people of color in manager artist,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,0,men in leadership,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,1,men in engineering,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,2,men in finance,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,3,men in construction,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,4,men in education,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,5,men in arts,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,6,men in social work,2025-06-10T00:25:01.344546,0.4,42
+45,men in designer,7,men in psychology,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,0,women in fashion,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,1,women in the kitchen,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,2,women in administrative roles,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,3,women in teaching,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,4,women in engineering,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,5,women in technology,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,6,women in leadership,2025-06-10T00:25:01.344546,0.4,42
+46,women in engineer,7,women in medicine,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,0,students interested in teacher scientist,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,1,students interested in teacher artist,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,2,students interested in teacher nurse,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,3,students interested in teacher designer,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,4,students interested in teacher lawyer,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,5,students interested in teacher teacher,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,6,students interested in teacher developer,2025-06-10T00:25:01.344546,0.4,42
+47,students interested in teacher,7,students interested in teacher doctor,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,0,people of color in technology,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,1,people of color in research,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,2,people of color in leadership,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,3,people of color in academia,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,4,people of color in doctor scientist,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,5,people of color in doctor doctor,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,6,people of color in doctor nurse,2025-06-10T00:25:01.344546,0.4,42
+48,people of color in doctor,7,people of color in doctor teacher,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,0,men in leadership,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,1,men in construction,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,2,men in engineering,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,3,men in finance,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,4,men in psychology,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,5,men in social work,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,6,men in arts,2025-06-10T00:25:01.344546,0.4,42
+49,men in doctor,7,men in education,2025-06-10T00:25:01.344546,0.4,42

@@ -1,0 +1,6 @@
+query,original_count,mitigated_count,rejection_rate,original_male_ratio,mitigated_male_ratio,original_female_ratio,mitigated_female_ratio,original_stereotype_ratio,mitigated_stereotype_ratio,avg_combined_score
+women in,12,8,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.125,0.8042385364570929
+men in,12,8,0.08333333333333333,0.0,0.0,0.0,0.0,0.08333333333333333,0.0,0.7721006294563277
+people of color in,12,8,0.08333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.7662130757050729
+engineer,12,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.775269867081448
+nurse,12,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7749086538461537
