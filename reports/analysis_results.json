@@ -1,0 +1,116 @@
+{
+  "preprocessing": {
+    "total_suggestions": 400,
+    "unique_suggestions": 220
+  },
+  "sentiment_analysis": {
+    "sentiment_distribution": {
+      "NEUTRAL": 397,
+      "POSITIVE": 3
+    },
+    "average_confidence": 0.7697088770568371
+  },
+  "semantic_analysis": {
+    "average_similarity": 0.32223087549209595,
+    "max_similarity": 0.9914709329605103,
+    "similarity_std": 0.18305781483650208
+  },
+  "bias_quantification": {
+    "sentiment_bias_by_gender": {
+      "group_statistics": {
+        "neutral": {
+          "mean_sentiment": 0.16677819406415553,
+          "std_sentiment": 0.05786063786354294,
+          "count": 282,
+          "positive_ratio": 0.0,
+          "negative_ratio": 0.0
+        },
+        "male": {
+          "mean_sentiment": 0.13414119101714256,
+          "std_sentiment": 0.052481854830816944,
+          "count": 86,
+          "positive_ratio": 0.0,
+          "negative_ratio": 0.0
+        },
+        "female": {
+          "mean_sentiment": 0.2731445454992354,
+          "std_sentiment": 0.15583649210083655,
+          "count": 32,
+          "positive_ratio": 0.09375,
+          "negative_ratio": 0.0
+        }
+      },
+      "anova_test": {
+        "f_statistic": 46.62133267841569,
+        "p_value": 6.505958514707877e-19,
+        "significant": true
+      },
+      "pairwise_tests": {
+        "neutral_vs_male": {
+          "t_statistic": 4.676344430583842,
+          "p_value": 4.1140782234591465e-06,
+          "significant": true
+        },
+        "neutral_vs_female": {
+          "t_statistic": -7.739504191027548,
+          "p_value": 1.3987239196647241e-13,
+          "significant": true
+        },
+        "male_vs_female": {
+          "t_statistic": -7.277611602856714,
+          "p_value": 4.360291866180512e-11,
+          "significant": true
+        }
+      }
+    },
+    "gender_representation_bias": {
+      "category_counts": {
+        "neutral": 282,
+        "male": 86,
+        "female": 32
+      },
+      "category_proportions": {
+        "neutral": 0.705,
+        "male": 0.215,
+        "female": 0.08
+      },
+      "expected_proportion": 0.3333333333333333,
+      "chi_square_test": {
+        "chi2_statistic": 259.58000000000004,
+        "p_value": 4.2945651327552206e-57,
+        "significant": true
+      },
+      "representation_ratio": {
+        "neutral": 2.115,
+        "male": 0.645,
+        "female": 0.24000000000000002
+      }
+    },
+    "profession_representation_bias": {
+      "category_counts": {
+        "general": 157,
+        "technical": 97,
+        "care": 90,
+        "leadership": 56
+      },
+      "category_proportions": {
+        "general": 0.3925,
+        "technical": 0.2425,
+        "care": 0.225,
+        "leadership": 0.14
+      },
+      "expected_proportion": 0.25,
+      "chi_square_test": {
+        "chi2_statistic": 52.940000000000005,
+        "p_value": 1.8881647517067817e-11,
+        "significant": true
+      },
+      "representation_ratio": {
+        "general": 1.57,
+        "technical": 0.97,
+        "care": 0.9,
+        "leadership": 0.56
+      }
+    }
+  }
+}
